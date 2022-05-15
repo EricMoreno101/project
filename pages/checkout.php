@@ -5,7 +5,7 @@
 
 <body>
 	<?php
-	$typeOfFan = $_POST["type"] = $_POST["portable"];
+	$typeOfFan = $_POST["type"];
 	$price = 0.0;
 	
 	
